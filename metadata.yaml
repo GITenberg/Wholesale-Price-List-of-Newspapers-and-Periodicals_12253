@@ -1,0 +1,24 @@
+_repo: Wholesale-Price-List-of-Newspapers-and-Periodicals_12253
+_version: 0.0.1
+creator:
+  author:
+    agent_name: D. D. Cottrell's Subscription Agency
+    alias: Agency, D. D. Cottrell's Subscription
+    gutenberg_agent_id: '4281'
+    url: http://www.gutenberg.org/2009/agents/4281
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Periodicals -- Directories'
+- !lcsh 'Newspapers -- Directories'
+- GITenberg
+title: Wholesale Price List of Newspapers and Periodicals
+url: http://www.gutenberg.org/ebooks/12253
